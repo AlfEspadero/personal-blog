@@ -13,14 +13,16 @@
 	},
 	"dependencies": {
 		"@astrojs/cloudflare": "12.6.12",
-		"@astrojs/mdx": "4.3.12",
+		"@astrojs/mdx": "4.3.13",
 		"@astrojs/rss": "4.0.14",
-		"@astrojs/sitemap": "3.6.0",
-		"astro": "5.16.2",
-		"typescript": "5.9.3"
+		"@astrojs/sitemap": "3.6.1",
+		"astro": "5.16.7",
+		"typescript": "^5.9.3"
 	},
 	"devDependencies": {
-		"wrangler": "4.56.0"
+		"prettier": "3.7.4",
+		"prettier-plugin-astro": "0.14.1",
+		"wrangler": "4.58.0"
 	},
 	"private": true,
 	"scripts": {
